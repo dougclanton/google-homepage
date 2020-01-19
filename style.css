@@ -1,0 +1,39 @@
+    .navigation-bar{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    .top-right{
+        float: right;
+    }
+
+    .searchbar{
+        margin: auto;
+        border-radius: 25px;
+    }
+
+    .search-button{
+        margin: auto;
+        color: rgb(82, 82, 82);
+        border-radius: 10px;
+        background: rgb(235, 235, 235);
+        padding: 20px; 
+        width: 100px;
+        height: 15px;  
+        text-align: center;
+    }
+
+    .navigation-footer{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .bottom-right{
+        float: right;
+    }
